@@ -50,9 +50,12 @@
 
 <br/>
 
+<br clear="both">
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=geankre.geankre&left_color=indianred&right_color=blueviolet&left_text=Profile views"  />
 </div>
+
+###
 
 
 
