@@ -15,7 +15,7 @@
 
 
 ## Tools and Technologies  
-<table><tr><td valign="top" width="33%">
+
 <div align="left">
 <br/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -54,7 +54,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=geankre.geankre&left_color=indianred&right_color=blueviolet&left_text=Profile views"  />
 </div>
 
-###
 
 
 
