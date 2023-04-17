@@ -41,13 +41,6 @@
   <a href="geankre@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
   </a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/apiGeankre=anuraghazra&count_private=true&theme=aura_dark" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/Geankre=anuraghazra&hide_progress=true" height="150" alt="languages graph"  />
-</div>
-
 
 ###
 
